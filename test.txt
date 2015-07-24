@@ -1,0 +1,5 @@
+This is a test file and we will keep updating this repository.
+
+First add the files.
+Then check the git status.
+Then commit the file with a message.
