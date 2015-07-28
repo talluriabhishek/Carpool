@@ -1,0 +1,5 @@
+1. Set up looks good. 
+
+2. In the coming two weeks, try to focus more on ontaining informaton, features to be implemented, existing projects etc., 
+
+3. Will try to make it workable on both Android and iOs(Swift Platform) for our educational purposes.
