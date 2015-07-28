@@ -1,0 +1,26 @@
+1. User Login page using their company id.
+For this we will consider only one company as credible users and then add the users.
+
+2. List of routes that are ongoing.
+
+3. user can enter the starting point and ending point. Depending on the points
+in their routes suggest the user with maximum matching route and maybe try to rank the 
+routes so that they can choose between the cars and routes.
+
+4. Users should be able to post their availability of carpool in their car and users should 
+be able to request carpool in a specific route.
+
+5. Map view for viewing the route and the points inbetween the route.
+
+6. Pickup notifications for the users in the carpool.
+
+7. Option to let the other users know about their availability for an upcoming trip.
+
+8. Chat room for the users in a particular group so that they
+can communicate easily with the members of the carpool.
+
+9. Easy payment split between the users by asking the owner to 
+update the expenses of the petrol/gas/diesel and splitting the expense and intimating the users about their dues.
+
+10. In app payment system to clear their debts to other users.
+
